@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ### 🐦‍⬛About Me
 As a Game Developer with a strong background in computer science and software engineering, I have contributed to leading companies like Funplus. 
+
 My work focus on mobile games, contributing to titles with over 1 billion downloads worldwide. 
+
 In addition, I have published my own indie game, which has garnered over 1,000 purchases and wishlists🌟. 
 
 
@@ -38,17 +40,21 @@ I really like those cute birds🦉.
 
 ### 💼Work Experiences
 I worked in Funplus for a year, developed a [fighting game](https://glc.haowancheng.cn/fab) with more than 300 people in the development team👯.
+
 Before that, I worked in Ourpalm, developed a [tower-defense game](https://play.google.com/store/apps/details?id=com.bigbull.tdsgtw).
+
 These word experiences are very useful to me, I learned a lot and had a joyful time developing game with those teams🥳.
 
 
 ### 🔭Plans and Horizon
 I am currently pursuing a Master's degree in Computer Science at Northeastern University, with an expected graduation in June 2026.
+
 I am passionate about continuing my career as a software engineer in the gaming industry.
 
 
 ### 📫 How to reach me
 LinkedIn: [Yilin Pan](www.linkedin.com/in/yilin-pan-crowpp)
+
 Email: bettercrowpp@gmail.com
 
 
