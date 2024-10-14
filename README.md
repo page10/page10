@@ -29,7 +29,7 @@ In addition, I have published my own indie game, which has garnered over 1,000 p
 
 
 ### 🕹My Games
-I've published [my indie game on steam](https://store.steampowered.com/app/2966190), it's a grid-based puzzle game, where you play as a crow to defeat humans.
+I've published [my indie game on steam](https://store.steampowered.com/app/2966190), _Blazing Crow_, it's a grid-based puzzle game, where you play as a crow to defeat humans.
 
 ![20240611-175753](https://github.com/user-attachments/assets/7fe25cea-0929-4dda-8866-b20ccc92b3e3)
 
