@@ -43,7 +43,7 @@ I worked in Funplus for a year, developed a [fighting game](https://glc.haowanch
 
 Before that, I worked in Ourpalm, developed a [tower-defense game](https://play.google.com/store/apps/details?id=com.bigbull.tdsgtw).
 
-These word experiences are very useful to me, I learned a lot and had a joyful time developing game with those teams🥳.
+These work experiences are very useful to me, I learned a lot and had a joyful time developing game with those teams🥳.
 
 
 ### 🔭Plans and Horizon
