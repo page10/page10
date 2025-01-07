@@ -58,7 +58,7 @@ I am passionate about continuing my career as a software engineer in the gaming 
 
 
 ### 📫 How to reach me
-LinkedIn: [Yilin Pan](www.linkedin.com/in/yilin-pan-crowpp)
+LinkedIn: [Yilin Pan](https://www.linkedin.com/in/yilin-pan-crowpp/)
 
 Email: bettercrowpp@gmail.com
 
