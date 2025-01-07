@@ -33,9 +33,14 @@ I've published [my indie game on steam](https://store.steampowered.com/app/29661
 
 ![20240611-175753](https://github.com/user-attachments/assets/7fe25cea-0929-4dda-8866-b20ccc92b3e3)
 
-Also, I make [small games on itch](https://page10.itch.io/), most of them have crow as their main character.
+Also, I make [small games on itch](https://page10.itch.io/), some of them also have crow as their main character.
 I really like those cute birds🦉.
 ![frostAndFire](https://github.com/user-attachments/assets/37f14aec-8e92-4b0b-8290-6aebaa8a3533)
+
+[Gameplay combined with story telling](https://page10.itch.io/unlock), is another way for me to convey better experience to players.
+![screenshot_en](https://github.com/user-attachments/assets/d9699222-ec79-41f3-a5fd-2218888389d3)
+
+
 
 
 ### 💼Work Experiences
