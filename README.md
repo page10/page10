@@ -37,7 +37,7 @@ Also, I make [small games on itch](https://page10.itch.io/), some of them also h
 I really like those cute birds🦉.
 ![frostAndFire](https://github.com/user-attachments/assets/37f14aec-8e92-4b0b-8290-6aebaa8a3533)
 
-[Gameplay combined with story telling](https://page10.itch.io/unlock), is another way for me to convey better experience to players.
+[Gameplay combined with story telling](https://page10.itch.io/unlock), is another way for me to convey better experience to players📖.
 ![screenshot_en](https://github.com/user-attachments/assets/d9699222-ec79-41f3-a5fd-2218888389d3)
 
 
