@@ -25,7 +25,7 @@ My work focus on mobile games, contributing to titles with over 1 billion downlo
 In addition, I have published my own indie game, which has garnered over 1,000 purchases and wishlists🌟. 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=page10&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=page10&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ### 🕹My Games
