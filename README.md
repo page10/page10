@@ -42,18 +42,22 @@ I really like those cute birds🦉.
 
 
 
-### 💼Work Experiences
-I worked in Funplus for a year, developed a [fighting game](https://glc.haowancheng.cn/fab) with more than 300 people in the development team👯.
+## 💼 Work Experiences
 
-Before that, I worked in Ourpalm, developed a [tower-defense game](https://play.google.com/store/apps/details?id=com.bigbull.tdsgtw).
+I spent two co-op terms (8 + 4 months, ending August 2026) as a Game Designer at **EA Vancouver** on the **EA SPORTS UFC** team 🥊, the first designer co-op the team ever had. I designed the game's Achievement system, which had me working across nearly every system in the game and with every designer on the team, and I later owned a feature of my own.
 
-These work experiences are very useful to me, I learned a lot and had a joyful time developing game with those teams🥳.
+Before that, I worked at FunPlus for a year on a [fighting game](link) with a development team of more than 300 people 👯.
+
+Earlier, I worked at Ourpalm on a [tower-defense game](link).
+
+These experiences taught me a lot, and I had a joyful time making games with those teams 🥳.
 
 
-### 🔭Plans and Horizon
-I am currently pursuing a Master's degree in Computer Science at Northeastern University, with an expected graduation in June 2026.
+## 🔭 Plans and Horizon
 
-I am passionate about continuing my career as a software engineer in the gaming industry.
+I am currently pursuing a Master's degree in Computer Science at Northeastern University, with an expected graduation in May 2027.
+
+I am passionate about continuing my career as a game designer, building on a technical foundation that lets me prototype and build systems myself.
 
 
 ### 📫 How to reach me
